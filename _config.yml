@@ -21,11 +21,10 @@
 title: Mayank Mehtani
 email: mayank.mehtani@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-    I am a software engineer based in Bristol, United Kingdom who works at Envelop Risk!
-    I love writing code, playing sports, listening to music and travelling!
+    I am a software engineer based in Bristol, United Kingdom. I'm currently working at Insurtech startup Envelop Risk! (P.S. we're hiring!)!
+    I love dogs & cats, writing code and travelling! Feel to reach me on my e-mail.
 aseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  mayankmehtani
 
 # Build settings
