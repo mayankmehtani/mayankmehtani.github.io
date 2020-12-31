@@ -1,0 +1,21 @@
+#bristolCity > img {
+    height: 265px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#bristolCity > figcaption {
+    color: grey;
+    font-size: 13px;
+}
+
+#bristolCity {
+    height: 312px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items:center;
+}
