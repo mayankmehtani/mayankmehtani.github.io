@@ -7,6 +7,6 @@ let todaysDate = new Date().toLocaleString("en-us", {
 let date = new Vue({
     el: "#date",
     data: {
-        date: "Mayank"
+        date: todaysDate
     }
 })
