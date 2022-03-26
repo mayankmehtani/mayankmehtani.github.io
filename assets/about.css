@@ -20,7 +20,11 @@
     align-items:center;
 }
 
-  
+#envelop {
+    color: rgb(130, 130, 130);
+    text-decoration: underline;
+}
+
 a.footer-link {
     color: rgb(17, 17, 17);
     text-decoration: underline;
