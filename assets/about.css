@@ -19,3 +19,9 @@
     justify-content: flex-end;
     align-items:center;
 }
+
+  
+a.footer-link {
+    color: rgb(17, 17, 17);
+    text-decoration: underline;
+}
