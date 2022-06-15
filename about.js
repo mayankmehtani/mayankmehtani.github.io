@@ -1,6 +1,6 @@
 let bristolCity = new Vue({
-    el: '#bristolCity',
+    el: '#london',
     data: {
-      image: './assets/images/bristol.jpg'
+      image: './assets/images/london.jpg'
     }
 })
